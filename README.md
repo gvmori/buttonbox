@@ -3,4 +3,5 @@ A simple button box using a circuitpython compatible controller. Built and teste
 Requires circuitpython with these libraries:
 
 adafruit_bus_device
+
 adafruit_hid
